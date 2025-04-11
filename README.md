@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Antonio Gonçalves Sousa, tenho 19 anos e sou natural de são Paulo. Estou no 4° semestre de analise e desenvolvimento de sistemas na São Paulo Tech School(SPTech).
+Meu nome é Antonio Gonçalves Sousa, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando o 4º semestre do tecnólogo em Análise e Desenvolvimento de Sistemas na São Paulo Tech School (SPTech).
 
+Atualmente, atuo como estagiário na Stefanini, onde tenho a oportunidade de aplicar e aprimorar meus conhecimentos na área de tecnologia e desenvolvimento de sistemas.
 
 ---
 
