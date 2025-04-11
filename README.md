@@ -35,6 +35,14 @@ Me chamo Antonio Gonçalves Sousa, tenho 19 anos e sou natural de são Paulo. Es
 />
 <img 
     align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -43,11 +51,27 @@ Me chamo Antonio Gonçalves Sousa, tenho 19 anos e sou natural de são Paulo. Es
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Spring" 
+    title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"    
 />
 <img 
     align="left" 
