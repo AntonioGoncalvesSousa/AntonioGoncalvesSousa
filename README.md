@@ -4,22 +4,6 @@
 
 Me chamo Antonio Gonçalves Sousa, tenho 19 anos e sou natural de são Paulo. Estou no 4° semestre de analise e desenvolvimento de sistemas na São Paulo Tech School(SPTech).
 
-<p align="left"> 
-    <a href="https://github.com/AntonioGoncalvesSousa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AntonioGoncalvesSousa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AntonioGoncalvesSousa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AntonioGoncalvesSousa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -55,7 +39,7 @@ Me chamo Antonio Gonçalves Sousa, tenho 19 anos e sou natural de são Paulo. Es
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 <img 
     align="left" 
