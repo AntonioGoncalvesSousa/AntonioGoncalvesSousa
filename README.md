@@ -10,78 +10,31 @@ Atualmente, atuo como estagiário na Stefanini, onde tenho a oportunidade de apl
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"    
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px;">
+  <img src="https://skillicons.dev/icons?i=html" height="46em" alt="HTML" title="HTML">
+  <img src="https://skillicons.dev/icons?i=css" height="46em" alt="CSS" title="CSS">  
+  <img src="https://skillicons.dev/icons?i=js" height="46em" alt="JavaScript" title="JavaScript"> 
+  <img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="Tailwind" title="Tailwind">
+  <img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java">  
+  <img src="https://skillicons.dev/icons?i=spring" height="46em" alt="Spring" title="Spring">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="46em" alt="Node.js" title="Node.js">  
+  <img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python">
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px;">
+  <img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="46em" alt="Kotlin" title="Kotlin">
+  <img src="https://skillicons.dev/icons?i=aws" height="46em" alt="AWS" title="AWS">
+  <img src="https://skillicons.dev/icons?i=azure" height="46em" alt="Azure" title="Azure">
+  <img src="https://skillicons.dev/icons?i=terraform" height="46em" alt="Terraform" title="Terraform">   
+  <img src="https://skillicons.dev/icons?i=mysql" height="46em" alt="MySQL" title="MySQL">  
+  <img src="https://skillicons.dev/icons?i=postgres" height="46em" alt="PostgreSQL" title="PostgreSQL">  
+  <img src="https://skillicons.dev/icons?i=git" height="46em" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=docker" height="46em" alt="Docker" title="Docker">
+  <img src="https://skillicons.dev/icons?i=linux" height="46em" alt="Linux" title="Linux">  
+</div>
 
 <br/>
 <br/>
