@@ -16,7 +16,6 @@ Atualmente, atuo como estagiário na Stefanini, onde tenho a oportunidade de apl
   <img src="https://skillicons.dev/icons?i=js" height="46em" alt="JavaScript" title="JavaScript"> 
   <img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript">
   <img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="Tailwind" title="Tailwind">
   <img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java">  
   <img src="https://skillicons.dev/icons?i=spring" height="46em" alt="Spring" title="Spring">
   <img src="https://skillicons.dev/icons?i=nodejs" height="46em" alt="Node.js" title="Node.js">  
@@ -24,16 +23,15 @@ Atualmente, atuo como estagiário na Stefanini, onde tenho a oportunidade de apl
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px;">
-  <img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++">
   <img src="https://skillicons.dev/icons?i=kotlin" height="46em" alt="Kotlin" title="Kotlin">
   <img src="https://skillicons.dev/icons?i=aws" height="46em" alt="AWS" title="AWS">
   <img src="https://skillicons.dev/icons?i=azure" height="46em" alt="Azure" title="Azure">
   <img src="https://skillicons.dev/icons?i=terraform" height="46em" alt="Terraform" title="Terraform">   
-  <img src="https://skillicons.dev/icons?i=mysql" height="46em" alt="MySQL" title="MySQL">  
-  <img src="https://skillicons.dev/icons?i=postgres" height="46em" alt="PostgreSQL" title="PostgreSQL">  
+  <img src="https://skillicons.dev/icons?i=mysql" height="46em" alt="MySQL" title="MySQL">    
   <img src="https://skillicons.dev/icons?i=git" height="46em" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=gitlab" height="46em" alt="Gitlab" title="Gitlab">
   <img src="https://skillicons.dev/icons?i=docker" height="46em" alt="Docker" title="Docker">
-  <img src="https://skillicons.dev/icons?i=linux" height="46em" alt="Linux" title="Linux">  
+  <img src="https://skillicons.dev/icons?i=linux" height="46em" alt="Linux" title="Linux">
 </div>
 
 <br/>
