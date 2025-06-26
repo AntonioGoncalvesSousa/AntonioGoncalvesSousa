@@ -20,6 +20,7 @@ Atualmente, atuo como estagiário na Stefanini, onde tenho a oportunidade de apl
   <img src="https://skillicons.dev/icons?i=spring" height="46em" alt="Spring" title="Spring">
   <img src="https://skillicons.dev/icons?i=nodejs" height="46em" alt="Node.js" title="Node.js">  
   <img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="Tailwind" title="Tailwind">
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px;">
