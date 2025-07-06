@@ -24,6 +24,7 @@ Atualmente, atuo como estagiário na Stefanini, onde tenho a oportunidade de apl
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px;">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="46em" alt="Bootstrap" title="Bootstrap">
   <img src="https://skillicons.dev/icons?i=kotlin" height="46em" alt="Kotlin" title="Kotlin">
   <img src="https://skillicons.dev/icons?i=aws" height="46em" alt="AWS" title="AWS">
   <img src="https://skillicons.dev/icons?i=azure" height="46em" alt="Azure" title="Azure">
