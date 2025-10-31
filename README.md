@@ -4,7 +4,7 @@
 
 Meu nome é Antonio Gonçalves Sousa, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando o 4º semestre do tecnólogo em Análise e Desenvolvimento de Sistemas na São Paulo Tech School (SPTech).
 
-Atualmente, atuo como estagiário na Stefanini, onde tenho a oportunidade de aplicar e aprimorar meus conhecimentos na área de tecnologia e desenvolvimento de sistemas.
+Atualmente, atuo como Analista e Desenvolvedor Junior na DoctorAssistant.AI, onde tenho a oportunidade de aplicar e aprimorar meus conhecimentos na área de tecnologia e analise de sistemas para a melhor solução.
 
 ---
 
