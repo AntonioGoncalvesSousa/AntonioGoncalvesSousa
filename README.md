@@ -2,9 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Antonio Gonçalves Sousa, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando o 4º semestre do tecnólogo em Análise e Desenvolvimento de Sistemas na São Paulo Tech School (SPTech).
+Meu nome é Antonio Gonçalves Sousa, tenho 19 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas na São Paulo Tech School (SPTech).
 
-Atualmente, atuo como Analista e Desenvolvedor Junior na DoctorAssistant.AI, onde tenho a oportunidade de aplicar e aprimorar meus conhecimentos na área de tecnologia e analise de sistemas para a melhor solução.
+Atualmente, atuo como Analista e Desenvolvedor na DoctorAssistant.AI, onde tenho a oportunidade de aplicar e aprimorar meus conhecimentos na área de tecnologia e analise de sistemas para a melhor solução.
 
 ---
 
